@@ -1,0 +1,45 @@
+{
+  "last_checked": "2026-05-20",
+  "employers": {
+    "Caesars Entertainment": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "MGM Resorts": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Wynn Resorts": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Las Vegas Sands": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Tesla": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Switch": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Allegiant Air": {
+      "count": 22,
+      "first_seen": "2026-05-20",
+      "checked": "2026-05-20"
+    },
+    "Station Casinos": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    }
+  }
+}
