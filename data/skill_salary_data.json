@@ -1,0 +1,87 @@
+{
+  "generated": "2026-05-21",
+  "categories": {
+    "Other": {
+      "cat_median": 106500,
+      "n_jobs": 44,
+      "skills": []
+    },
+    "Sales": {
+      "cat_median": 105000,
+      "n_jobs": 3,
+      "skills": []
+    },
+    "Engineering": {
+      "cat_median": 216842,
+      "n_jobs": 34,
+      "skills": [
+        {
+          "skill": "system_design",
+          "median": 283000,
+          "n": 2,
+          "dev": 30.5
+        },
+        {
+          "skill": "react",
+          "median": 266750,
+          "n": 2,
+          "dev": 23.0
+        },
+        {
+          "skill": "terraform",
+          "median": 241000,
+          "n": 2,
+          "dev": 11.1
+        },
+        {
+          "skill": "aws",
+          "median": 207750,
+          "n": 2,
+          "dev": -4.2
+        }
+      ]
+    },
+    "Finance": {
+      "cat_median": 110725,
+      "n_jobs": 4,
+      "skills": []
+    },
+    "Management": {
+      "cat_median": 214250,
+      "n_jobs": 18,
+      "skills": []
+    },
+    "Security": {
+      "cat_median": 443000,
+      "n_jobs": 1,
+      "skills": []
+    },
+    "Data & Analytics": {
+      "cat_median": 116500,
+      "n_jobs": 8,
+      "skills": []
+    },
+    "Product": {
+      "cat_median": 225500,
+      "n_jobs": 14,
+      "skills": [
+        {
+          "skill": "security",
+          "median": 225250,
+          "n": 2,
+          "dev": -0.1
+        }
+      ]
+    },
+    "Operations": {
+      "cat_median": 155800,
+      "n_jobs": 9,
+      "skills": []
+    },
+    "People & HR": {
+      "cat_median": 166000,
+      "n_jobs": 4,
+      "skills": []
+    }
+  }
+}
