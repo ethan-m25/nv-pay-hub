@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-24T09:46:31.965460+00:00",
+    "built_at": "2026-05-25T09:41:50.965821+00:00",
     "total_jobs": 156,
-    "enriched": 110
+    "enriched": 116
   },
   "jobs": {
     "crew-scheduling-oper-allegiantair-84040805": {
@@ -373,6 +373,52 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "senior-data-analytic-workwave-84040806": {
+      "summary": "Owns the data ecosystem, builds and maintains robust data pipelines, and ensures data accessibility, reliability, and scalability for AI/ML initiatives.",
+      "key_skills": [
+        "data engineering",
+        "sql",
+        "python",
+        "data pipelines",
+        "etl",
+        "data warehousing",
+        "data quality",
+        "data modeling"
+      ],
+      "core_skills": [
+        "sql",
+        "python",
+        "data pipelines",
+        "data warehousing"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "partner-consultant-ramp-84040806": {
+      "summary": "Partner Consultant who collaborates with channel partners to provide technical accounting expertise, build integrations, and advise on financial workflows for Ramp's customers",
+      "key_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales",
+        "solutions_engineering",
+        "technical_specification",
+        "finance_systems",
+        "erp_integration"
+      ],
+      "core_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "procurement-architec-ramp-84040806": {
       "summary": "Solutions Architect, Procurement (Pre-Sales, Enterprise) leads technical discovery and solution design for procurement workflows, ensuring seamless handoff to onboarding for enterprise clients.",
@@ -924,6 +970,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-analyst--gtm--vanta-84040806": {
+      "summary": "Senior Analyst, GTM Analytics at Vanta partners with Sales, Overlay teams, and RevOps to analyze GTM performance, build scalable reporting, and improve revenue outcomes through data-driven insights.",
+      "key_skills": [
+        "sql",
+        "data_analysis",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling",
+        "sales_engineering",
+        "revenue_operations",
+        "gtm_analytics"
+      ],
+      "core_skills": [
+        "sql",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-copywriter-vanta-84040806": {
       "summary": "Senior Copywriter at Vanta writes across channels including campaigns, web, paid ads, email, and video to craft clear, compelling brand voice content while collaborating with cross-functional teams to scale and safeguard the company's messaging.",
       "key_skills": [
@@ -1183,6 +1252,27 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-marketing-ana-vanta-84040806": {
+      "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
+      "key_skills": [
+        "sql",
+        "salesforce",
+        "marketing_automation",
+        "tableau",
+        "dbt",
+        "python",
+        "r"
+      ],
+      "core_skills": [
+        "analytical_mindset",
+        "action_oriented",
+        "communication_skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
@@ -1910,6 +2000,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "executive-recruiting-headway-84040806": {
+      "summary": "Owns end-to-end candidate experience for senior and executive level searches, managing complex scheduling across multiple stakeholders and ensuring a seamless interview process.",
+      "key_skills": [
+        "executive_recruiting",
+        "candidate_experience",
+        "scheduling",
+        "multi_timezone_coordination",
+        "executive_search",
+        "candidate_logistics",
+        "interview_coordination",
+        "pipeline_management"
+      ],
+      "core_skills": [
+        "scheduling",
+        "candidate_experience",
+        "multi_timezone_coordination",
+        "executive_search"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "manager--business-op-headway-84040806": {
       "summary": "Business Operations Manager leads cross-functional initiatives to design scalable systems and improve operational efficiency while driving measurable impact across high-growth mental healthcare technology company.",
       "key_skills": [
@@ -2434,6 +2547,29 @@
       ],
       "seniority_signal": "senior",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "revenue-operations-a-vanta-29437395": {
+      "summary": "Owns day-to-day operational excellence of Vanta's NAMER SDR organization and makes recommendations to improve Vanta’s GTM motion",
+      "key_skills": [
+        "revenue operations",
+        "sales operations",
+        "sales development",
+        "sdr",
+        "data analysis",
+        "process optimization",
+        "sales metrics",
+        "gtm"
+      ],
+      "core_skills": [
+        "data analysis",
+        "process optimization",
+        "sales metrics",
+        "sdr"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
