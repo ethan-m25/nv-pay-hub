@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-26T09:41:07.171405+00:00",
-    "total_jobs": 156,
-    "enriched": 116
+    "built_at": "2026-05-27T09:40:05.490147+00:00",
+    "total_jobs": 161,
+    "enriched": 121
   },
   "jobs": {
     "crew-scheduling-oper-allegiantair-84040805": {
@@ -2641,6 +2641,117 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "accounting-administr-allegiantair-16521737": {
+      "summary": "The Accounting Administrator I - Station processes station-related payables and receivables, ensures accurate financial documentation, and facilitates vendor communications.",
+      "key_skills": [
+        "accounts payable",
+        "accounts receivable",
+        "gaap",
+        "data entry",
+        "reconciliation",
+        "cash application",
+        "vendor management",
+        "vendor w9"
+      ],
+      "core_skills": [
+        "attention to detail",
+        "computer proficiency"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "flight-operations-pe-allegiantair-16521737": {
+      "summary": "The Flight Operations Performance Engineer supports the development of performance data, maintenance of weight and balance systems, and aircraft performance analysis to improve fuel efficiency and operational procedures.",
+      "key_skills": [
+        "aerospace engineering",
+        "data analysis",
+        "python",
+        "weight and balance",
+        "fuel efficiency",
+        "aircraft performance"
+      ],
+      "core_skills": [
+        "data analysis",
+        "python",
+        "weight and balance",
+        "aircraft performance"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "sr-engineer--softwar-allegiantair-16521737": {
+      "summary": "Senior Software Engineer develops and maintains web applications for e-commerce, hospitality, and airline operations platforms using object-oriented languages and middleware technologies.",
+      "key_skills": [
+        "java",
+        "javascript",
+        "php",
+        "c#",
+        "ruby",
+        "scala",
+        "c++",
+        "mysql"
+      ],
+      "core_skills": [
+        "software_engineering",
+        "agile",
+        "database_design",
+        "testing"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "staff-ai-researcher-aledade-74754166": {
+      "summary": "Staff AI Researcher develops advanced AI solutions to improve health outcomes by empowering primary care physicians with technology that prevents unnecessary hospitalizations, collaborating with engineering and analytics teams to integrate AI into products and workflows.",
+      "key_skills": [
+        "ai",
+        "machine_learning",
+        "deep_learning",
+        "large_language_models",
+        "python",
+        "data_analysis",
+        "statistical_analysis",
+        "distributed_systems"
+      ],
+      "core_skills": [
+        "deep_learning",
+        "large_language_models",
+        "python",
+        "data_analysis"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "principal-engineer---allegiantair-74754166": {
+      "summary": "The Principal Engineer leads DevSecOps program security tooling, policies, and automation for CI/CD pipelines, ensuring security across application, infrastructure, and cloud workloads while integrating agentic AI security.",
+      "key_skills": [
+        "devsecops",
+        "ci/cd",
+        "cloud-security",
+        "infrastructure-as-code",
+        "application-security",
+        "ai-security",
+        "mcp-server",
+        "agentic-ai"
+      ],
+      "core_skills": [
+        "github-actions",
+        "checkov",
+        "terraform",
+        "aws"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     }
   }
 }
