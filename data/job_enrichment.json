@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-31T12:27:35.117987+00:00",
-    "total_jobs": 559,
-    "enriched": 449
+    "built_at": "2026-06-01T10:58:15.087900+00:00",
+    "total_jobs": 563,
+    "enriched": 450
   },
   "jobs": {
     "crew-scheduling-oper-allegiantair-84040805": {
@@ -442,29 +442,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "software-engineer----modern-treasury-84040806": {
-      "summary": "Designs, deploys, and operates high-scale payment infrastructure using AWS, container orchestration, and automation to support multi-rail money movement and real-time payment systems.",
-      "key_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd",
-        "infrastructure_as_code",
-        "distributed_systems",
-        "observability",
-        "performance_tuning"
-      ],
-      "core_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "backend-senior-softw-vanta-84040806": {
       "summary": "Senior Software Engineer leads and mentors engineers, delivering high-value products for customers and infrastructure to scale security monitoring capabilities.",
@@ -5026,29 +5003,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "administrative-busin-asana-64597503": {
-      "summary": "Supports senior leaders in enterprise software by managing complex projects, optimizing workflows, and ensuring alignment with business goals through strategic calendaring and stakeholder engagement.",
-      "key_skills": [
-        "project management",
-        "goal management",
-        "resource management",
-        "calendaring",
-        "stakeholder management",
-        "cross-functional collaboration",
-        "strategic planning",
-        "business acumen"
-      ],
-      "core_skills": [
-        "stakeholder management",
-        "cross-functional collaboration",
-        "strategic planning",
-        "business acumen"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "commercial-counsel---asana-64597503": {
       "summary": "Commercial Counsel, Procurement works cross-functionally to support procurement and vendor onboarding by drafting and negotiating commercial agreements while providing legal advice and collaborating with stakeholders.",
       "key_skills": [
@@ -5164,29 +5118,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "enterprise-sales-man-asana-64597503": {
-      "summary": "Enterprise Sales Manager leads and implements initiatives to energize business growth and scale sales programs for State, Local & Education (SLED) business by working closely with marketing, product, and customer success teams to identify and overcome technical, educational, and competitive challenges.",
-      "key_skills": [
-        "enterprise sales",
-        "sled",
-        "public sector",
-        "education",
-        "sales leadership",
-        "gtm strategy",
-        "product feedback",
-        "coaching"
-      ],
-      "core_skills": [
-        "sales leadership",
-        "gtm strategy",
-        "public procurement",
-        "enterprise sales"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "head-of-channel-stra-asana-64597503": {
       "summary": "Head of Channel Strategy develops and executes annual plans, performance frameworks, and strategic priorities for Asana's global Channel business to drive scalable growth and partner productivity.",
       "key_skills": [
@@ -5207,52 +5138,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "head-of-customer-ai--asana-64597503": {
-      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving post-sales organization into an AI-activation model by redesigning customer success, renewal, and services teams to drive AI product adoption and revenue growth.",
-      "key_skills": [
-        "ai",
-        "customer",
-        "transformation",
-        "product",
-        "engineering",
-        "revenue",
-        "customer_success",
-        "renewal"
-      ],
-      "core_skills": [
-        "strategic",
-        "operational",
-        "cross_functional",
-        "leadership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "head-of-internal-aud-asana-64597503": {
-      "summary": "The Head of Internal Audit & SOX leads the company’s Internal Audit function and defines the strategy for strengthening the organization’s risk management, governance, and internal control environment.",
-      "key_skills": [
-        "internal audit",
-        "sox compliance",
-        "risk management",
-        "governance",
-        "enterprise risk management",
-        "control environment",
-        "audit strategy",
-        "risk-based auditing"
-      ],
-      "core_skills": [
-        "risk assessment",
-        "control effectiveness",
-        "audit planning",
-        "governance oversight"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
@@ -5322,144 +5207,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
-    },
-    "senior-data-science--asana-64597503": {
-      "summary": "Manages and leads a team of data scientists to drive product strategy and data-informed decisions while mentoring technical growth.",
-      "key_skills": [
-        "data science",
-        "machine learning",
-        "statistical analysis",
-        "experimentation",
-        "causal inference",
-        "data storytelling",
-        "python",
-        "r"
-      ],
-      "core_skills": [
-        "team leadership",
-        "cross-functional collaboration",
-        "data-informed decision making",
-        "technical mentorship"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-engineering-m-asana-64597503": {
-      "summary": "Manages a team of eight engineers building the AI Teammates platform to power Asana's agentic AI capabilities.",
-      "key_skills": [
-        "ai",
-        "agents",
-        "engineering",
-        "management",
-        "platform",
-        "execution",
-        "model",
-        "integration"
-      ],
-      "core_skills": [
-        "engineering",
-        "management",
-        "platform",
-        "execution"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-product-marke-asana-64597503": {
-      "summary": "Owns end-to-end go-to-market strategy for AI-powered service management solutions, partnering with Product and Sales to drive market momentum and scale new products from 1 to 100.",
-      "key_skills": [
-        "product marketing",
-        "gto",
-        "ai",
-        "it service management",
-        "strategic planning",
-        "market growth",
-        "product launches",
-        "sales enablement"
-      ],
-      "core_skills": [
-        "strategic planning",
-        "market growth",
-        "product launches",
-        "sales enablement"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-solutions-arc-asana-64597503": {
-      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and managing technical projects to drive customer growth and influence product roadmaps.",
-      "key_skills": [
-        "solutions architect",
-        "api",
-        "ai",
-        "platform ecosystem",
-        "technical expertise",
-        "project management",
-        "workflow automation",
-        "goal management"
-      ],
-      "core_skills": [
-        "technical validation",
-        "platform evangelism",
-        "product partnership",
-        "architectural leadership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "solutions-engineer-asana-64597503": {
-      "summary": "Solutions Engineer partners with Account Executives to execute account strategies for enterprise clients, designing AI-powered workflows and solution architectures that drive revenue growth and customer retention.",
-      "key_skills": [
-        "solutions engineering",
-        "ai",
-        "prompt engineering",
-        "enterprise architecture",
-        "pre-sales technical",
-        "technical consulting",
-        "large language models",
-        "enterprise software"
-      ],
-      "core_skills": [
-        "ai",
-        "prompt engineering",
-        "enterprise architecture",
-        "pre-sales technical"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "team-lead--market-op-carvana-64597503": {
-      "summary": "Team Lead manages local Carvana hub operations including market launches, logistics, customer experience, and team development while ensuring high performance in a fast-paced environment.",
-      "key_skills": [
-        "market operations",
-        "customer experience",
-        "logistics",
-        "team leadership",
-        "process improvement",
-        "strategic planning",
-        "sales",
-        "customer advocacy"
-      ],
-      "core_skills": [
-        "team leadership",
-        "process improvement",
-        "strategic planning",
-        "customer experience"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "lead",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     },
     "inside-account-execu-toast-64597503": {
       "summary": "Generates list of prospective restaurants, manages sales cycle from initial call to close, conducts demos, develops customized solutions, and partners with cross-functional teams to ensure delivery.",
@@ -6461,72 +6208,6 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "unknown"
-    },
-    "customer-support-ass-betterment-64597503": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "cx-automation-perfor-betterment-64597503": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "strategic-sales-mana-betterment-64597503": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "director--it-service-justworks-64597503": {
       "summary": "Directs enterprise IT services, leads IT teams, ensures secure and seamless employee tool access, and drives IT strategy and operational excellence.",
@@ -9329,28 +9010,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "director--energy-inn-crusoe-51043904": {
-      "summary": "The Director creates strategic advantage for Crusoe by scouting, vetting and adopting new technologies to generate or access electricity for AI computing infrastructure, driving an incubation engine that converts new technology into scalable deployment.",
-      "key_skills": [
-        "energy",
-        "ai",
-        "infrastructure",
-        "commercialization",
-        "technology",
-        "scouting",
-        "vetting",
-        "incubation"
-      ],
-      "core_skills": [
-        "energy",
-        "ai",
-        "infrastructure"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "electrical-field-eng-crusoe-51043904": {
       "summary": "Electrical Field Engineer supports on-site installation, quality assurance, and commissioning of critical electrical infrastructure for data center projects, ensuring safe and efficient power distribution systems meet AI workload demands.",
       "key_skills": [
@@ -9422,121 +9081,6 @@
         "safety-sensitive position"
       ],
       "work_mode_derived": "hybrid"
-    },
-    "global-supply-chain--crusoe-51043904": {
-      "summary": "Owns end-to-end global supply for Crusoe's compute infrastructure, managing GPU/CPU server partnerships, accelerator allocations, and long-lead component constraints across multiple data centers.",
-      "key_skills": [
-        "global supply chain",
-        "compute",
-        "gpu",
-        "cpu",
-        "accelerators",
-        "memory",
-        "nic",
-        "optics"
-      ],
-      "core_skills": [
-        "supply chain strategy",
-        "accelerator allocation",
-        "oem partnerships",
-        "capacity alignment"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "project-executive-crusoe-51043904": {
-      "summary": "Project Executive leads large-scale construction projects for hyperscale AI data centers, ensuring on-time, on-budget delivery with high quality standards.",
-      "key_skills": [
-        "construction",
-        "project",
-        "management",
-        "data_center",
-        "hyperscale",
-        "budgeting",
-        "scheduling",
-        "quality"
-      ],
-      "core_skills": [
-        "construction_management",
-        "project_leadership",
-        "budgeting",
-        "scheduling"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-manager--supp-crusoe-51043904": {
-      "summary": "This Senior Manager leads global supply chain operations to ensure continuity, efficiency, and quality in deploying AI infrastructure while optimizing supplier relationships and mitigating risks across multiple global locations.",
-      "key_skills": [
-        "supply chain management",
-        "supplier relationship management",
-        "process improvement",
-        "capacity management",
-        "inventory control",
-        "risk management",
-        "sustainability integration",
-        "cross-functional coordination"
-      ],
-      "core_skills": [
-        "communication",
-        "analytical prowess",
-        "problem-solving",
-        "strategic thinking"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "staff-commissioning--crusoe-51043904": {
-      "summary": "Staff Commissioning Engineer serves as the primary point of accountability for commissioning activities across data center projects, ensuring electrical and EPMS systems meet design intent and operational readiness standards through full lifecycle oversight.",
-      "key_skills": [
-        "data center commissioning",
-        "electrical engineering",
-        "epms",
-        "commissioning levels",
-        "third-party vendor management",
-        "factory witness testing",
-        "power distribution",
-        "critical infrastructure"
-      ],
-      "core_skills": [
-        "commissioning",
-        "technical documentation",
-        "cross-functional coordination",
-        "vendor management"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "staff-instrumentatio-crusoe-51043904": {
-      "summary": "Staff Instrumentation and Controls Engineer leads deployment and integration of BMS/EPMS and SCADA systems for hyperscale data centers, ensuring seamless operation of AI-optimized infrastructure.",
-      "key_skills": [
-        "bms",
-        "epms",
-        "scada",
-        "plc",
-        "hvac",
-        "electrical",
-        "protocol",
-        "mqtt"
-      ],
-      "core_skills": [
-        "deployment",
-        "integration",
-        "protocol",
-        "networking"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     },
     "facilities-operation-openai-51043904": {
       "summary": "Manages day-to-day operations of mission-critical AI data center infrastructure across multiple campuses, ensuring smooth transition from construction to production and maintaining high reliability.",
@@ -9892,6 +9436,471 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "administrative-busin-asana-09872182": {
+      "summary": "Supports senior leaders in enterprise software with strategic project management and administrative tasks to ensure business outcomes.",
+      "key_skills": [
+        "administrative",
+        "business",
+        "partner",
+        "project",
+        "management",
+        "strategic",
+        "support",
+        "enterprise"
+      ],
+      "core_skills": [
+        "strategic",
+        "project",
+        "management",
+        "support"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "head-of-customer-ai--asana-09872182": {
+      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving customer success teams to drive AI product adoption and revenue growth through cross-functional change and ROI validation.",
+      "key_skills": [
+        "ai",
+        "customer",
+        "transformation",
+        "product",
+        "engineering",
+        "revenue",
+        "customer_success",
+        "renewal"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic_planning",
+        "cross_functional",
+        "operationalization"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "head-of-internal-aud-asana-09872182": {
+      "summary": "The Head of Internal Audit & SOX leads the company’s Internal Audit function and defines the strategy for strengthening the organization’s risk management, governance, and internal control environment.",
+      "key_skills": [
+        "internal audit",
+        "sox compliance",
+        "risk management",
+        "governance",
+        "enterprise risk management",
+        "operational audits",
+        "internal investigations",
+        "control environment"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "risk assessment",
+        "control effectiveness",
+        "independent insights"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-data-science--asana-09872182": {
+      "summary": "Manages and leads a team of data scientists to drive common goals across product teams while partnering with product, engineering, and design leads to set strategy and direction.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "statistical analysis",
+        "experimentation",
+        "causal inference",
+        "data storytelling",
+        "data modeling",
+        "data analysis"
+      ],
+      "core_skills": [
+        "team leadership",
+        "cross-functional collaboration",
+        "strategic planning",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-asana-09872182": {
+      "summary": "Manages a team of eight engineers building the AI Teammates platform to enable human-agent workflows in Asana's work management system.",
+      "key_skills": [
+        "ai agents",
+        "engineering",
+        "machine learning",
+        "model integration",
+        "agent behavior",
+        "proactive execution",
+        "developer platform",
+        "workflow automation"
+      ],
+      "core_skills": [
+        "engineering management",
+        "team leadership",
+        "model integration",
+        "agent behavior"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-product-marke-asana-09872182": {
+      "summary": "Owns end-to-end go-to-market strategy for new products, partners with Product and Sales to drive product launches and market momentum, creates enablement materials for sales teams.",
+      "key_skills": [
+        "product marketing",
+        "gtm strategy",
+        "product launches",
+        "messaging",
+        "market momentum",
+        "sales enablement",
+        "customer stories",
+        "battlecards"
+      ],
+      "core_skills": [
+        "gtm strategy",
+        "product launches",
+        "sales enablement",
+        "messaging"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-solutions-arc-asana-09872182": {
+      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and technical proof-of-concepts for Tier 1 accounts.",
+      "key_skills": [
+        "solutions architecture",
+        "api",
+        "ai",
+        "platform ecosystem",
+        "technical validation",
+        "mvp development",
+        "technical expertise",
+        "strategic partnership"
+      ],
+      "core_skills": [
+        "solutions architecture",
+        "api",
+        "ai",
+        "technical validation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "dental-hygienist-akicita-cyber-09872182": {
+      "summary": "The Dental Hygienist provides comprehensive preventive and therapeutic dental hygiene services to eligible American Indian and Alaska Native beneficiaries while working under the general supervision of a licensed dentist to support the Patient-Centered Medical Home model.",
+      "key_skills": [
+        "dental hygiene",
+        "preventive care",
+        "therapeutic services",
+        "patient-centered care",
+        "clinical performance indicators"
+      ],
+      "core_skills": [
+        "dental hygiene"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "outpatient-nurse-akicita-cyber-09872182": {
+      "summary": "Outpatient RN provides direct patient care, administers medications and treatments, performs IV therapy and infusion care, documents in electronic health records, and coordinates with healthcare teams in a fast-paced ambulatory care setting.",
+      "key_skills": [
+        "nursing",
+        "ambulatory care",
+        "iv therapy",
+        "infusion care",
+        "vital signs",
+        "patient care",
+        "medication administration",
+        "clinical judgment"
+      ],
+      "core_skills": [
+        "iv starts",
+        "picc lines",
+        "pals",
+        "acls"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--go-t-zoox-09872182": {
+      "summary": "Creates and executes go-to-market strategies for personal mobility, including city selection, service planning, and fleet sizing while partnering with cross-functional teams to drive customer acquisition and retention.",
+      "key_skills": [
+        "go-to-market",
+        "strategic_operations",
+        "partnerships",
+        "business_development",
+        "data_analysis",
+        "market_research",
+        "city_selection",
+        "fleet_sizing"
+      ],
+      "core_skills": [
+        "strategic_thinking",
+        "cross_functional_collaboration",
+        "stakeholder_management",
+        "financial_modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--supp-crusoe-09872182": {
+      "summary": "This Senior Manager leads global supply chain operations to ensure continuity, efficiency, and quality in deploying AI infrastructure while optimizing supplier relationships and mitigating risks across multiple global locations.",
+      "key_skills": [
+        "supply chain management",
+        "supplier relationship management",
+        "process improvement",
+        "capacity management",
+        "inventory control",
+        "risk management",
+        "sustainability integration",
+        "cross-functional coordination"
+      ],
+      "core_skills": [
+        "communication",
+        "analytical prowess",
+        "problem-solving",
+        "strategic thinking"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "bilingual-licensed-c-kin-09872182": {
+      "summary": "Serves as the first line of support for homeowners across 13 states, handling policies, payments, and coverage questions while delivering fast, empathetic service in a high-volume environment.",
+      "key_skills": [
+        "customer service",
+        "insurance",
+        "policy",
+        "payments",
+        "bilingual",
+        "spanish"
+      ],
+      "core_skills": [
+        "active listening",
+        "empathy",
+        "high-volume handling",
+        "process improvement"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "corporate-representa-kin-09872182": {
+      "summary": "Serves as Kin’s designated corporate witness in first-party property litigation matters, providing binding testimony in depositions and trials while partnering with cross-functional teams to protect customers and business.",
+      "key_skills": [
+        "corporate witness",
+        "litigation defense",
+        "first-party property claims",
+        "deposition testimony",
+        "claims handling",
+        "policy interpretation",
+        "underwriting intent",
+        "corporate policies"
+      ],
+      "core_skills": [
+        "corporate witness",
+        "litigation defense",
+        "claims handling",
+        "policy interpretation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "insurance-sales-repr-kin-09872182": {
+      "summary": "Connects with customers via phone/email/text to recommend tailored insurance solutions using multiple carriers, building customized policies and addressing their needs.",
+      "key_skills": [
+        "insurance",
+        "sales",
+        "consulting",
+        "customized_policies",
+        "homeowners"
+      ],
+      "core_skills": [
+        "sales",
+        "consulting",
+        "customized_policies"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "licensed-sales-manag-kin-09872182": {
+      "summary": "Manages and develops 12-14 insurance sales agents through strategic coaching and performance tracking to meet sales targets in a remote-first environment.",
+      "key_skills": [
+        "sales",
+        "insurance",
+        "agent",
+        "management",
+        "data",
+        "reporting",
+        "crm",
+        "metrics"
+      ],
+      "core_skills": [
+        "sales_management",
+        "insurance_sales",
+        "agent_coaching",
+        "performance_metrics"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "product-manager-kin-09872182": {
+      "summary": "Product Manager reimagines homeowners claims experience by building data-driven technology solutions to improve adjuster efficiency and customer outcomes.",
+      "key_skills": [
+        "agile",
+        "data-driven",
+        "product_management",
+        "claims"
+      ],
+      "core_skills": [
+        "product_management",
+        "agile",
+        "data_driven",
+        "end_to_end_delivery"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-manag-kin-09872182": {
+      "summary": "Owns the evolution of Kin's core platform for policy administration, billing, payments, and API standards with multi-year strategy and cross-functional leadership.",
+      "key_skills": [
+        "product management",
+        "api strategy",
+        "platform strategy",
+        "software engineering",
+        "data analysis",
+        "regulatory compliance",
+        "financial services",
+        "insurance"
+      ],
+      "core_skills": [
+        "platform strategy",
+        "api design",
+        "cross-functional leadership",
+        "stakeholder alignment"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-kin-09872182": {
+      "summary": "Senior Software Engineer builds and scales full stack insurance products using TypeScript, Ruby, and PostgreSQL while mentoring engineers and shaping architecture in a remote-first environment.",
+      "key_skills": [
+        "typescript",
+        "ruby",
+        "postgresql",
+        "react",
+        "vue",
+        "angular",
+        "python"
+      ],
+      "core_skills": [
+        "full stack",
+        "scalable applications",
+        "technical mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer--f-kin-09872182": {
+      "summary": "Builds scalable front-end applications using Angular and TypeScript to power Kin’s insurance platform while mentoring engineers and shaping technical direction in a remote-first environment.",
+      "key_skills": [
+        "angular",
+        "typescript",
+        "front-end",
+        "web-components",
+        "state-management",
+        "api-integrations",
+        "css",
+        "scss"
+      ],
+      "core_skills": [
+        "technical-mentorship",
+        "agile-collaboration",
+        "front-end-architecture",
+        "cross-functional-communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "sr--pricing---risk-m-kin-09872182": {
+      "summary": "Sr. Pricing and Risk Manager leads pricing strategy, risk frameworks, and analytical innovation to drive business growth and regulatory compliance while ensuring departmental accountability and strategic alignment.",
+      "key_skills": [
+        "pricing",
+        "risk",
+        "actuarial",
+        "analytics",
+        "regulatory",
+        "compliance",
+        "strategy",
+        "influence"
+      ],
+      "core_skills": [
+        "strategy",
+        "budgeting",
+        "hiring",
+        "regulatory_compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-software-engin-kin-09872182": {
+      "summary": "This Staff Software Engineer leads full-stack architecture, mentors engineers across teams, and shapes scalable Ruby/TypeScript systems to power Kin’s growth.",
+      "key_skills": [
+        "ruby",
+        "typescript",
+        "full-stack",
+        "architecture",
+        "scalable",
+        "systems",
+        "mentorship",
+        "engineering"
+      ],
+      "core_skills": [
+        "full-stack architecture",
+        "technical mentorship",
+        "distributed systems",
+        "scalable systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
