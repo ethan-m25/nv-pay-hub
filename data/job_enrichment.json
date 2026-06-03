@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-01T10:58:15.087900+00:00",
-    "total_jobs": 563,
-    "enriched": 450
+    "built_at": "2026-06-03T11:42:07.282637+00:00",
+    "total_jobs": 579,
+    "enriched": 459
   },
   "jobs": {
     "crew-scheduling-oper-allegiantair-84040805": {
@@ -9437,167 +9437,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "administrative-busin-asana-09872182": {
-      "summary": "Supports senior leaders in enterprise software with strategic project management and administrative tasks to ensure business outcomes.",
-      "key_skills": [
-        "administrative",
-        "business",
-        "partner",
-        "project",
-        "management",
-        "strategic",
-        "support",
-        "enterprise"
-      ],
-      "core_skills": [
-        "strategic",
-        "project",
-        "management",
-        "support"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "head-of-customer-ai--asana-09872182": {
-      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving customer success teams to drive AI product adoption and revenue growth through cross-functional change and ROI validation.",
-      "key_skills": [
-        "ai",
-        "customer",
-        "transformation",
-        "product",
-        "engineering",
-        "revenue",
-        "customer_success",
-        "renewal"
-      ],
-      "core_skills": [
-        "leadership",
-        "strategic_planning",
-        "cross_functional",
-        "operationalization"
-      ],
-      "seniority_signal": "executive",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "head-of-internal-aud-asana-09872182": {
-      "summary": "The Head of Internal Audit & SOX leads the company’s Internal Audit function and defines the strategy for strengthening the organization’s risk management, governance, and internal control environment.",
-      "key_skills": [
-        "internal audit",
-        "sox compliance",
-        "risk management",
-        "governance",
-        "enterprise risk management",
-        "operational audits",
-        "internal investigations",
-        "control environment"
-      ],
-      "core_skills": [
-        "strategic planning",
-        "risk assessment",
-        "control effectiveness",
-        "independent insights"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-data-science--asana-09872182": {
-      "summary": "Manages and leads a team of data scientists to drive common goals across product teams while partnering with product, engineering, and design leads to set strategy and direction.",
-      "key_skills": [
-        "data science",
-        "machine learning",
-        "statistical analysis",
-        "experimentation",
-        "causal inference",
-        "data storytelling",
-        "data modeling",
-        "data analysis"
-      ],
-      "core_skills": [
-        "team leadership",
-        "cross-functional collaboration",
-        "strategic planning",
-        "mentorship"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-engineering-m-asana-09872182": {
-      "summary": "Manages a team of eight engineers building the AI Teammates platform to enable human-agent workflows in Asana's work management system.",
-      "key_skills": [
-        "ai agents",
-        "engineering",
-        "machine learning",
-        "model integration",
-        "agent behavior",
-        "proactive execution",
-        "developer platform",
-        "workflow automation"
-      ],
-      "core_skills": [
-        "engineering management",
-        "team leadership",
-        "model integration",
-        "agent behavior"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-product-marke-asana-09872182": {
-      "summary": "Owns end-to-end go-to-market strategy for new products, partners with Product and Sales to drive product launches and market momentum, creates enablement materials for sales teams.",
-      "key_skills": [
-        "product marketing",
-        "gtm strategy",
-        "product launches",
-        "messaging",
-        "market momentum",
-        "sales enablement",
-        "customer stories",
-        "battlecards"
-      ],
-      "core_skills": [
-        "gtm strategy",
-        "product launches",
-        "sales enablement",
-        "messaging"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-solutions-arc-asana-09872182": {
-      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and technical proof-of-concepts for Tier 1 accounts.",
-      "key_skills": [
-        "solutions architecture",
-        "api",
-        "ai",
-        "platform ecosystem",
-        "technical validation",
-        "mvp development",
-        "technical expertise",
-        "strategic partnership"
-      ],
-      "core_skills": [
-        "solutions architecture",
-        "api",
-        "ai",
-        "technical validation"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "dental-hygienist-akicita-cyber-09872182": {
       "summary": "The Dental Hygienist provides comprehensive preventive and therapeutic dental hygiene services to eligible American Indian and Alaska Native beneficiaries while working under the general supervision of a licensed dentist to support the Patient-Centered Medical Home model.",
       "key_skills": [
@@ -9638,6 +9477,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "digital-marketing-ma-colibrigroup-09872182": {
+      "summary": "Executes integrated omnichannel marketing initiatives to drive acquisition, engagement, and revenue for healthcare continuing education brands through CRO, analytics, and campaign execution.",
+      "key_skills": [
+        "data-driven",
+        "conversion-focused",
+        "digital marketing",
+        "omnichannel",
+        "cros",
+        "marketing automation",
+        "analytics",
+        "campaign execution"
+      ],
+      "core_skills": [
+        "cros",
+        "marketing automation",
+        "analytics",
+        "campaign execution"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-manager--go-t-zoox-09872182": {
       "summary": "Creates and executes go-to-market strategies for personal mobility, including city selection, service planning, and fleet sizing while partnering with cross-functional teams to drive customer acquisition and retention.",
       "key_skills": [
@@ -9660,29 +9522,6 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "onsite"
-    },
-    "senior-manager--supp-crusoe-09872182": {
-      "summary": "This Senior Manager leads global supply chain operations to ensure continuity, efficiency, and quality in deploying AI infrastructure while optimizing supplier relationships and mitigating risks across multiple global locations.",
-      "key_skills": [
-        "supply chain management",
-        "supplier relationship management",
-        "process improvement",
-        "capacity management",
-        "inventory control",
-        "risk management",
-        "sustainability integration",
-        "cross-functional coordination"
-      ],
-      "core_skills": [
-        "communication",
-        "analytical prowess",
-        "problem-solving",
-        "strategic thinking"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
     },
     "bilingual-licensed-c-kin-09872182": {
       "summary": "Serves as the first line of support for homeowners across 13 states, handling policies, payments, and coverage questions while delivering fast, empathetic service in a high-volume environment.",
@@ -9770,48 +9609,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "product-manager-kin-09872182": {
-      "summary": "Product Manager reimagines homeowners claims experience by building data-driven technology solutions to improve adjuster efficiency and customer outcomes.",
-      "key_skills": [
-        "agile",
-        "data-driven",
-        "product_management",
-        "claims"
-      ],
-      "core_skills": [
-        "product_management",
-        "agile",
-        "data_driven",
-        "end_to_end_delivery"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "senior-product-manag-kin-09872182": {
-      "summary": "Owns the evolution of Kin's core platform for policy administration, billing, payments, and API standards with multi-year strategy and cross-functional leadership.",
-      "key_skills": [
-        "product management",
-        "api strategy",
-        "platform strategy",
-        "software engineering",
-        "data analysis",
-        "regulatory compliance",
-        "financial services",
-        "insurance"
-      ],
-      "core_skills": [
-        "platform strategy",
-        "api design",
-        "cross-functional leadership",
-        "stakeholder alignment"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "senior-software-engi-kin-09872182": {
       "summary": "Senior Software Engineer builds and scales full stack insurance products using TypeScript, Ruby, and PostgreSQL while mentoring engineers and shaping architecture in a remote-first environment.",
       "key_skills": [
@@ -9896,6 +9693,417 @@
         "technical mentorship",
         "distributed systems",
         "scalable systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-data-science--asana-84172519": {
+      "summary": "Manages and leads a team of data scientists to drive common goals across product teams while partnering with product, engineering, and design leads to set strategy and direction.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "statistical analysis",
+        "experimentation",
+        "causal inference",
+        "data storytelling",
+        "data modeling",
+        "data analysis"
+      ],
+      "core_skills": [
+        "team leadership",
+        "cross-functional collaboration",
+        "strategic planning",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-asana-84172519": {
+      "summary": "Manages a team of eight engineers building the AI Teammates platform to enable human-agent workflows in Asana's work management system.",
+      "key_skills": [
+        "ai agents",
+        "engineering",
+        "machine learning",
+        "model integration",
+        "agent behavior",
+        "proactive execution",
+        "developer platform",
+        "workflow automation"
+      ],
+      "core_skills": [
+        "engineering management",
+        "team leadership",
+        "model integration",
+        "agent behavior"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-solutions-arc-asana-84172519": {
+      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and technical proof-of-concepts for Tier 1 accounts.",
+      "key_skills": [
+        "solutions architecture",
+        "api",
+        "ai",
+        "platform ecosystem",
+        "technical validation",
+        "mvp development",
+        "technical expertise",
+        "strategic partnership"
+      ],
+      "core_skills": [
+        "solutions architecture",
+        "api",
+        "ai",
+        "technical validation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "learning---developme-googlefiber-84172519": {
+      "summary": "Manages network operations and sales activities for GFiber.",
+      "key_skills": [
+        "network",
+        "operations",
+        "sales"
+      ],
+      "core_skills": [
+        "networking"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-cloud-network-myriad360-84172519": {
+      "summary": "Senior Cloud Network Engineer designs, implements, automates, and supports enterprise-scale cloud and hybrid network infrastructure across AWS, Azure, and GCP environments.",
+      "key_skills": [
+        "aws",
+        "azure",
+        "gcp",
+        "kubernetes",
+        "infrastructure-as-code",
+        "terraform",
+        "ansible",
+        "python"
+      ],
+      "core_skills": [
+        "cloud-networking",
+        "infrastructure-automation",
+        "kubernetes",
+        "security"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "iam-engineer-veterinaryemerg-84172519": {
+      "summary": "The IAM Engineer builds, maintains, and scales VEG’s SaaS ecosystem including Okta, Google Workspace, O365, Workday, and other integrated platforms to automate identity processes and ensure secure access.",
+      "key_skills": [
+        "okta",
+        "google workspace",
+        "o365",
+        "workday",
+        "chatgpt",
+        "workvivo",
+        "coupa",
+        "rest api"
+      ],
+      "core_skills": [
+        "okta",
+        "rest api",
+        "ssos",
+        "scim"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "cloudflare-one-gtm-s-cloudflare-84172519": {
+      "summary": "Serves as a segment lead for CloudflareOne (CF1) sales, advising sales leaders on opportunities, partnering with technical sales teams, and driving product adoption for SASE, SSE, AI Security, and related solutions.",
+      "key_skills": [
+        "sase",
+        "sse",
+        "ai security",
+        "ztna",
+        "swg",
+        "casb",
+        "dlp",
+        "sd-wan"
+      ],
+      "core_skills": [
+        "sales",
+        "technical expertise",
+        "consultative mindset",
+        "pipeline generation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director-of-sales--d-cloudflare-84172519": {
+      "summary": "Sales leader responsible for driving regional revenue growth, managing enterprise sales teams, and expanding customer accounts in the Northeast region.",
+      "key_skills": [
+        "sales",
+        "leadership",
+        "enterprise",
+        "networking",
+        "ai",
+        "security",
+        "customer",
+        "acquisition"
+      ],
+      "core_skills": [
+        "sales_management",
+        "enterprise_sales",
+        "networking"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-cloudflare-on-cloudflare-84172519": {
+      "summary": "Serves as a segment lead for CloudflareOne (CF1) sales, advising sales leaders on opportunities, partnering with technical sales teams, and driving product adoption for SASE, SSE, AI Security, and related solutions.",
+      "key_skills": [
+        "sase",
+        "sse",
+        "ai security",
+        "ztna",
+        "swg",
+        "casb",
+        "dlp",
+        "sd-wan"
+      ],
+      "core_skills": [
+        "sales",
+        "technical expertise",
+        "consultative mindset",
+        "pipeline generation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-sales-manager-cloudflare-84172519": {
+      "summary": "Sales leader responsible for driving Cloudflare's revenue and brand awareness in the SF Bay Area region through strategic leadership, team management, and customer engagement.",
+      "key_skills": [
+        "sales",
+        "leadership",
+        "enterprise",
+        "networking",
+        "ai",
+        "customer",
+        "acquisition",
+        "expansion"
+      ],
+      "core_skills": [
+        "sales_management",
+        "enterprise_sales",
+        "networking"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-solutions-eng-cloudflare-84172519": {
+      "summary": "Builds technical relationships with key stakeholders at major accounts, designs solutions for security and network transformation, and drives revenue through technical validation and customer advocacy.",
+      "key_skills": [
+        "cloudflare",
+        "solutions engineering",
+        "technical sales",
+        "pre-sales",
+        "account management",
+        "customer engagement",
+        "security",
+        "network"
+      ],
+      "core_skills": [
+        "technical sales",
+        "pre-sales",
+        "account management",
+        "customer engagement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-customer-supp-collibra-84172519": {
+      "summary": "Senior Customer Support Engineer II investigates complex customer issues to determine root causes, applies workarounds, and collaborates with engineering teams to improve software observability and customer satisfaction.",
+      "key_skills": [
+        "java",
+        "python",
+        "sql",
+        "unix",
+        "docker",
+        "tcpip",
+        "tls",
+        "design_patterns"
+      ],
+      "core_skills": [
+        "root_cause_analysis",
+        "observability_improvement",
+        "cross_functional_collaboration",
+        "production_software_maintenance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [
+        "u_s_citizen_required",
+        "on_call_rotation"
+      ],
+      "work_mode_derived": "hybrid"
+    },
+    "corporate-communicat-allegiantair-84172519": {
+      "summary": "The Corporate Communications Specialist promotes and protects Allegiant's brand and reputation through strategic media, community relations, and corporate social responsibility initiatives, working with media, influencers, and community stakeholders to ensure accurate messaging and crisis response.",
+      "key_skills": [
+        "corporate communications",
+        "media relations",
+        "public affairs",
+        "crisis communication",
+        "social media management",
+        "content creation",
+        "event coordination",
+        "community relations"
+      ],
+      "core_skills": [
+        "media response",
+        "story pitching",
+        "press releases",
+        "crisis management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "general-manager---la-allegiantair-84172519": {
+      "summary": "Drives cross-functional collaboration and KPI ownership while ensuring regulatory compliance and vendor performance for airline operations.",
+      "key_skills": [
+        "cross-functional facilitation",
+        "data-driven problem solving",
+        "kpi ownership",
+        "regulatory compliance",
+        "customer focus",
+        "employee engagement",
+        "vendor management",
+        "service-level agreements"
+      ],
+      "core_skills": [
+        "cross-functional leadership",
+        "emergency decision-making",
+        "regulatory liaison",
+        "vendor compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [
+        "must reside within 60 minutes of assigned airport",
+        "must obtain and maintain GSC certification",
+        "must pass criminal background check"
+      ],
+      "work_mode_derived": "onsite"
+    },
+    "windows-engineering--allegiantair-84172519": {
+      "summary": "Manages IT personnel, team resources, and production systems while ensuring uptime and virtual infrastructure in a fast-paced enterprise environment.",
+      "key_skills": [
+        "windows",
+        "vmware",
+        "cisco",
+        "san",
+        "networking",
+        "virtualization",
+        "microsoft",
+        "exchange"
+      ],
+      "core_skills": [
+        "leadership",
+        "technical_problem_solving",
+        "customer_support",
+        "organizational_skills",
+        "time_management",
+        "on_call_emergencies",
+        "budget_management",
+        "third_party_relations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--supp-crusoe-84172519": {
+      "summary": "This Senior Manager leads global supply chain operations to ensure continuity, efficiency, and quality in deploying AI infrastructure while optimizing supplier relationships and mitigating risks across multiple global locations.",
+      "key_skills": [
+        "supply chain management",
+        "supplier relationship management",
+        "process improvement",
+        "capacity management",
+        "inventory control",
+        "risk management",
+        "sustainability integration",
+        "cross-functional coordination"
+      ],
+      "core_skills": [
+        "communication",
+        "analytical prowess",
+        "problem-solving",
+        "strategic thinking"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "product-manager-kin-84172519": {
+      "summary": "Product Manager reimagines homeowners claims experience by building data-driven technology solutions to improve adjuster efficiency and customer outcomes.",
+      "key_skills": [
+        "agile",
+        "data-driven",
+        "product_management",
+        "claims"
+      ],
+      "core_skills": [
+        "product_management",
+        "agile",
+        "data_driven",
+        "end_to_end_delivery"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-manag-kin-84172519": {
+      "summary": "Owns the evolution of Kin's core platform for policy administration, billing, payments, and API standards with multi-year strategy and cross-functional leadership.",
+      "key_skills": [
+        "product management",
+        "api strategy",
+        "platform strategy",
+        "software engineering",
+        "data analysis",
+        "regulatory compliance",
+        "financial services",
+        "insurance"
+      ],
+      "core_skills": [
+        "platform strategy",
+        "api design",
+        "cross-functional leadership",
+        "stakeholder alignment"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
