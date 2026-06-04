@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T11:42:07.282637+00:00",
+    "built_at": "2026-06-04T10:16:43.105353+00:00",
     "total_jobs": 579,
-    "enriched": 459
+    "enriched": 463
   },
   "jobs": {
     "crew-scheduling-oper-allegiantair-84040805": {
@@ -9699,69 +9699,68 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "senior-data-science--asana-84172519": {
-      "summary": "Manages and leads a team of data scientists to drive common goals across product teams while partnering with product, engineering, and design leads to set strategy and direction.",
+    "administrative-busin-asana-84172519": {
+      "summary": "Supports senior leaders in enterprise software with strategic project management and administrative tasks to ensure business outcomes.",
       "key_skills": [
-        "data science",
-        "machine learning",
-        "statistical analysis",
-        "experimentation",
-        "causal inference",
-        "data storytelling",
-        "data modeling",
-        "data analysis"
+        "administrative",
+        "business",
+        "partner",
+        "project",
+        "management",
+        "strategic",
+        "support",
+        "enterprise"
       ],
       "core_skills": [
-        "team leadership",
-        "cross-functional collaboration",
+        "strategic",
+        "project",
+        "management",
+        "support"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "head-of-internal-aud-asana-84172519": {
+      "summary": "The Head of Internal Audit & SOX leads the company’s Internal Audit function and defines the strategy for strengthening the organization’s risk management, governance, and internal control environment.",
+      "key_skills": [
+        "internal audit",
+        "sox compliance",
+        "risk management",
+        "governance",
+        "enterprise risk management",
+        "operational audits",
+        "internal investigations",
+        "control environment"
+      ],
+      "core_skills": [
         "strategic planning",
-        "mentorship"
+        "risk assessment",
+        "control effectiveness",
+        "independent insights"
       ],
       "seniority_signal": "senior",
-      "role_type": "manager",
+      "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "senior-engineering-m-asana-84172519": {
-      "summary": "Manages a team of eight engineers building the AI Teammates platform to enable human-agent workflows in Asana's work management system.",
+    "senior-product-marke-asana-84172519": {
+      "summary": "Owns end-to-end go-to-market strategy for AI-powered service management solutions, partnering with Product and Sales to drive market momentum and customer growth.",
       "key_skills": [
-        "ai agents",
-        "engineering",
-        "machine learning",
-        "model integration",
-        "agent behavior",
-        "proactive execution",
-        "developer platform",
-        "workflow automation"
+        "product marketing",
+        "gto",
+        "ai",
+        "product strategy",
+        "commercial execution",
+        "market momentum",
+        "customer success",
+        "sales enablement"
       ],
       "core_skills": [
-        "engineering management",
-        "team leadership",
-        "model integration",
-        "agent behavior"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-solutions-arc-asana-84172519": {
-      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and technical proof-of-concepts for Tier 1 accounts.",
-      "key_skills": [
-        "solutions architecture",
-        "api",
-        "ai",
-        "platform ecosystem",
-        "technical validation",
-        "mvp development",
-        "technical expertise",
-        "strategic partnership"
-      ],
-      "core_skills": [
-        "solutions architecture",
-        "api",
-        "ai",
-        "technical validation"
+        "product marketing",
+        "gto",
+        "ai"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -9829,6 +9828,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "sr--manager--global--aloyoga-84172519": {
+      "summary": "This role defines, scales, and executes Alo's global workforce management and retail operations strategy through scheduling platforms, ensuring consistent labor scheduling practices across international retail operations.",
+      "key_skills": [
+        "workforce management",
+        "labor scheduling",
+        "retail operations",
+        "scheduling platform",
+        "labor model optimization",
+        "compliance management",
+        "data-driven decision-making",
+        "cross-functional leadership"
+      ],
+      "core_skills": [
+        "workforce management",
+        "labor scheduling",
+        "retail operations",
+        "scheduling platform"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "cloudflare-one-gtm-s-cloudflare-84172519": {
       "summary": "Serves as a segment lead for CloudflareOne (CF1) sales, advising sales leaders on opportunities, partnering with technical sales teams, and driving product adoption for SASE, SSE, AI Security, and related solutions.",
       "key_skills": [
@@ -9873,6 +9895,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "senior-account-execu-cloudflare-84172519": {
+      "summary": "Digital Native Account Executives at Cloudflare sell into high-growth tech companies to drive product discussions and customer expansion through technical sales motions.",
+      "key_skills": [
+        "sales",
+        "b2b",
+        "saaS",
+        "technical",
+        "consultative",
+        "acquisition",
+        "expansion",
+        "renewal"
+      ],
+      "core_skills": [
+        "sales",
+        "b2b",
+        "saaS",
+        "technical"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "senior-cloudflare-on-cloudflare-84172519": {
       "summary": "Serves as a segment lead for CloudflareOne (CF1) sales, advising sales leaders on opportunities, partnering with technical sales teams, and driving product adoption for SASE, SSE, AI Security, and related solutions.",
@@ -10045,7 +10090,99 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "senior-manager--supp-crusoe-84172519": {
+    "senior-data-science--asana-67760764": {
+      "summary": "Manages and leads a team of data scientists to drive common goals across product teams while partnering with product, engineering, and design leads to set strategy and direction.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "statistical analysis",
+        "causal inference",
+        "experimentation",
+        "data storytelling",
+        "data engineering",
+        "data strategy"
+      ],
+      "core_skills": [
+        "team leadership",
+        "cross-functional collaboration",
+        "data-driven decision making",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-asana-67760764": {
+      "summary": "Manages a team of eight engineers building the AI Teammates platform to power AI agents that handle complex knowledge work and improve over time.",
+      "key_skills": [
+        "ai",
+        "agents",
+        "engineering",
+        "management",
+        "platform",
+        "teammates",
+        "agentic",
+        "ai-platform"
+      ],
+      "core_skills": [
+        "engineering",
+        "management",
+        "platform",
+        "agentic"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-solutions-arc-asana-67760764": {
+      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and technical proofs of concept for Tier 1 accounts.",
+      "key_skills": [
+        "solutions architecture",
+        "api",
+        "ai",
+        "platform ecosystem",
+        "technical validation",
+        "mvp development",
+        "technical expertise",
+        "strategic partnership"
+      ],
+      "core_skills": [
+        "technical expertise",
+        "strategic partnership",
+        "technical validation",
+        "mvp development"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-account-execu-cloudflare-67760764": {
+      "summary": "Digital Native Account Executives at Cloudflare sell into high-growth tech companies in North America, driving product discussions and technical solutions while expanding customer accounts through acquisition, expansion, and renewal.",
+      "key_skills": [
+        "sales",
+        "b2b",
+        "saaS",
+        "technical",
+        "consultative",
+        "acquisition",
+        "expansion",
+        "renewal"
+      ],
+      "core_skills": [
+        "sales",
+        "b2b",
+        "saaS",
+        "technical"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--supp-crusoe-67760764": {
       "summary": "This Senior Manager leads global supply chain operations to ensure continuity, efficiency, and quality in deploying AI infrastructure while optimizing supplier relationships and mitigating risks across multiple global locations.",
       "key_skills": [
         "supply chain management",
@@ -10067,48 +10204,6 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "product-manager-kin-84172519": {
-      "summary": "Product Manager reimagines homeowners claims experience by building data-driven technology solutions to improve adjuster efficiency and customer outcomes.",
-      "key_skills": [
-        "agile",
-        "data-driven",
-        "product_management",
-        "claims"
-      ],
-      "core_skills": [
-        "product_management",
-        "agile",
-        "data_driven",
-        "end_to_end_delivery"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "senior-product-manag-kin-84172519": {
-      "summary": "Owns the evolution of Kin's core platform for policy administration, billing, payments, and API standards with multi-year strategy and cross-functional leadership.",
-      "key_skills": [
-        "product management",
-        "api strategy",
-        "platform strategy",
-        "software engineering",
-        "data analysis",
-        "regulatory compliance",
-        "financial services",
-        "insurance"
-      ],
-      "core_skills": [
-        "platform strategy",
-        "api design",
-        "cross-functional leadership",
-        "stakeholder alignment"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     }
   }
 }
