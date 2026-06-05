@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T10:16:43.105353+00:00",
-    "total_jobs": 579,
-    "enriched": 463
+    "built_at": "2026-06-05T10:13:43.289650+00:00",
+    "total_jobs": 583,
+    "enriched": 468
   },
   "jobs": {
     "crew-scheduling-oper-allegiantair-84040805": {
@@ -5717,6 +5717,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-risk-manageme-grafanalabs-64597503": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-solutions-eng-grafanalabs-64597503": {
       "summary": "Enterprise Solutions Engineers partner with sales teams to educate customers on Grafana's value proposition, deliver technical presentations, and close high-velocity opportunities through advanced competitive knowledge and technical credibility.",
       "key_skills": [
@@ -8780,6 +8803,21 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "talent-manager---cen-veterinaryemerg-51043904": {
+      "summary": "Provides 24/7 emergency veterinary care for pets",
+      "key_skills": [
+        "veterinary",
+        "emergency",
+        "care"
+      ],
+      "core_skills": [
+        "veterinary"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "veterinary-sonograph-veterinaryemerg-51043904": {
       "summary": "Sonographer provides ultrasound support for VEG hospitals and training facilities, performing scans and training staff in ultrasound techniques while collaborating with medical teams.",
       "key_skills": [
@@ -9699,74 +9737,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "administrative-busin-asana-84172519": {
-      "summary": "Supports senior leaders in enterprise software with strategic project management and administrative tasks to ensure business outcomes.",
-      "key_skills": [
-        "administrative",
-        "business",
-        "partner",
-        "project",
-        "management",
-        "strategic",
-        "support",
-        "enterprise"
-      ],
-      "core_skills": [
-        "strategic",
-        "project",
-        "management",
-        "support"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "head-of-internal-aud-asana-84172519": {
-      "summary": "The Head of Internal Audit & SOX leads the company’s Internal Audit function and defines the strategy for strengthening the organization’s risk management, governance, and internal control environment.",
-      "key_skills": [
-        "internal audit",
-        "sox compliance",
-        "risk management",
-        "governance",
-        "enterprise risk management",
-        "operational audits",
-        "internal investigations",
-        "control environment"
-      ],
-      "core_skills": [
-        "strategic planning",
-        "risk assessment",
-        "control effectiveness",
-        "independent insights"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-product-marke-asana-84172519": {
-      "summary": "Owns end-to-end go-to-market strategy for AI-powered service management solutions, partnering with Product and Sales to drive market momentum and customer growth.",
-      "key_skills": [
-        "product marketing",
-        "gto",
-        "ai",
-        "product strategy",
-        "commercial execution",
-        "market momentum",
-        "customer success",
-        "sales enablement"
-      ],
-      "core_skills": [
-        "product marketing",
-        "gto",
-        "ai"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "learning---developme-googlefiber-84172519": {
       "summary": "Manages network operations and sales activities for GFiber.",
       "key_skills": [
@@ -10090,75 +10060,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "senior-data-science--asana-67760764": {
-      "summary": "Manages and leads a team of data scientists to drive common goals across product teams while partnering with product, engineering, and design leads to set strategy and direction.",
-      "key_skills": [
-        "data science",
-        "machine learning",
-        "statistical analysis",
-        "causal inference",
-        "experimentation",
-        "data storytelling",
-        "data engineering",
-        "data strategy"
-      ],
-      "core_skills": [
-        "team leadership",
-        "cross-functional collaboration",
-        "data-driven decision making",
-        "mentorship"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-engineering-m-asana-67760764": {
-      "summary": "Manages a team of eight engineers building the AI Teammates platform to power AI agents that handle complex knowledge work and improve over time.",
-      "key_skills": [
-        "ai",
-        "agents",
-        "engineering",
-        "management",
-        "platform",
-        "teammates",
-        "agentic",
-        "ai-platform"
-      ],
-      "core_skills": [
-        "engineering",
-        "management",
-        "platform",
-        "agentic"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-solutions-arc-asana-67760764": {
-      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and technical proofs of concept for Tier 1 accounts.",
-      "key_skills": [
-        "solutions architecture",
-        "api",
-        "ai",
-        "platform ecosystem",
-        "technical validation",
-        "mvp development",
-        "technical expertise",
-        "strategic partnership"
-      ],
-      "core_skills": [
-        "technical expertise",
-        "strategic partnership",
-        "technical validation",
-        "mvp development"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "senior-account-execu-cloudflare-67760764": {
       "summary": "Digital Native Account Executives at Cloudflare sell into high-growth tech companies in North America, driving product discussions and technical solutions while expanding customer accounts through acquisition, expansion, and renewal.",
       "key_skills": [
@@ -10182,22 +10083,204 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "senior-manager--supp-crusoe-67760764": {
+    "administrative-busin-asana-54121155": {
+      "summary": "Supports senior leaders in enterprise software with strategic administrative tasks, project management, and cross-functional coordination.",
+      "key_skills": [
+        "administrative",
+        "business",
+        "partner",
+        "strategic",
+        "project",
+        "management",
+        "support",
+        "enterprise"
+      ],
+      "core_skills": [
+        "strategic",
+        "project",
+        "management",
+        "support"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "head-of-internal-aud-asana-54121155": {
+      "summary": "The Head of Internal Audit & SOX leads the company’s Internal Audit function and defines the strategy for strengthening the organization’s risk management, governance, and internal control environment.",
+      "key_skills": [
+        "internal audit",
+        "sox compliance",
+        "risk management",
+        "governance",
+        "enterprise risk management",
+        "operational audits",
+        "internal investigations",
+        "risk-based auditing"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "risk assessment",
+        "control environment",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-data-science--asana-54121155": {
+      "summary": "Manages and leads a team of data scientists to drive common goals across product teams while partnering with product, engineering, and design leads to set strategy and direction.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "statistical analysis",
+        "causal inference",
+        "experimentation",
+        "data storytelling",
+        "data engineering",
+        "data strategy"
+      ],
+      "core_skills": [
+        "team leadership",
+        "cross-functional collaboration",
+        "data-driven decision making",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-asana-54121155": {
+      "summary": "Manages a team of eight engineers building the AI Teammates platform to enable AI agents that handle complex knowledge work and improve workflows within Asana.",
+      "key_skills": [
+        "ai agents",
+        "agentic ai",
+        "engineering",
+        "machine learning",
+        "model integration",
+        "workflow automation",
+        "ai platform",
+        "developer platform"
+      ],
+      "core_skills": [
+        "engineering management",
+        "ai platform development",
+        "model integration",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-product-marke-asana-54121155": {
+      "summary": "Owns end-to-end go-to-market strategy for new products, partners with Product and Sales to drive product launches and market adoption.",
+      "key_skills": [
+        "product marketing",
+        "gtm strategy",
+        "commercial execution",
+        "product launches",
+        "messaging",
+        "positioning",
+        "enablement",
+        "sales enablement"
+      ],
+      "core_skills": [
+        "product marketing",
+        "gtm strategy",
+        "commercial execution",
+        "product launches"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-solutions-arc-asana-54121155": {
+      "summary": "Serves as a strategic technical partner in complex enterprise sales cycles, designing integrated solutions and technical proof-of-concepts for Tier 1 accounts.",
+      "key_skills": [
+        "solutions architecture",
+        "api",
+        "ai",
+        "platform ecosystem",
+        "technical validation",
+        "mvp development",
+        "strategic team-selling",
+        "platform evangelism"
+      ],
+      "core_skills": [
+        "solutions architecture",
+        "api",
+        "ai"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "cpe-supply-chain-pla-googlefiber-54121155": {
+      "summary": "Manages network operations and sales activities for GFiber.",
+      "key_skills": [
+        "network",
+        "operations",
+        "sales"
+      ],
+      "core_skills": [
+        "networking"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "customer-equipment-s-googlefiber-54121155": {
+      "summary": "Manages network operations and sales activities for GFiber.",
+      "key_skills": [
+        "network",
+        "operations",
+        "sales"
+      ],
+      "core_skills": [
+        "networking"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "supply-chain-program-googlefiber-54121155": {
+      "summary": "Manages network operations and sales activities for GFiber.",
+      "key_skills": [
+        "network",
+        "operations",
+        "sales"
+      ],
+      "core_skills": [
+        "networking"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--supp-crusoe-54121155": {
       "summary": "This Senior Manager leads global supply chain operations to ensure continuity, efficiency, and quality in deploying AI infrastructure while optimizing supplier relationships and mitigating risks across multiple global locations.",
       "key_skills": [
         "supply chain management",
         "supplier relationship management",
         "process improvement",
-        "capacity management",
         "inventory control",
         "risk management",
+        "capacity management",
         "sustainability integration",
         "cross-functional coordination"
       ],
       "core_skills": [
         "communication",
-        "analytical prowess",
         "problem-solving",
+        "analytical prowess",
         "strategic thinking"
       ],
       "seniority_signal": "senior",
